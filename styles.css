@@ -13,15 +13,7 @@ header {
   padding: 50px 20px;
 }
 
-.cta-button {
-  background: white;
-  color: #008cff;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 5px;
-  display: inline-block;
-  margin-top: 10px;
-}
+
 
 .features {
   padding: 30px 20px;
